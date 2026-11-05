@@ -50,9 +50,6 @@ src/
 └── styles.css    # All custom styling and colours
 ```
 
-## Changing the Look
-
-All colours are variables at the top of `src/styles.css`. Change them there and the whole page updates.
 
 ## How the Modal Works
 
